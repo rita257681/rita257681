@@ -113,7 +113,7 @@
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/GuilhermeCruzPT/AquaLab-Shift-Appens-.git" style="color: #FF1493; text-decoration: none;">🔗 AquaLab</a></b><br><br>
-      Aquatic drone based on a catamaran, whose objective includes environmental monitoring and water quality data collection.<br><br>
+      Aquatic drone based on a catamaran, cujo o objetivo inclui a monitorização ambiental e a recolha de dados sobre a qualidade da água.<br><br>
       <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=9D00FF&color=9D00FF" />
       <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
@@ -129,15 +129,17 @@
 ### > Network.Stats.fetch()
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rita257681&theme=dark&background=0D1117&ring=FF007F&fire=9D00FF&currStreakNum=FF007F&sideLabels=A1B2C1&dates=A1B2C1&border=FF007F" width="680" alt="Sequência de Contribuições" />
-</div>
-<br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rita257681&bg_color=0D1117&color=FF007F&line=9D00FF&point=FFFFFF&area=true&hide_border=false&border_color=FF007F&custom_title=Rita%20Ramos" width="680" alt="Gráfico de Atividade" />
-</div>
+<!-- Cartão de Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=rita257681&theme=dark&background=0D1117&ring=FF007F&fire=9D00FF&currStreakNum=FF007F&sideLabels=A1B2C1&dates=A1B2C1&border=FF007F"
+  width="680" />
 
-<br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=9D00FF&center=true&vCenter=true&width=400&lines=Transmission+ended.;Awaiting+input...;Logging_off..." alt="Footer" />
+<br><br>
+
+<!-- Gráfico de Atividade forçado para o ano inteiro (period=annual) -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rita257681&period=annual&bg_color=0D1117&color=FF007F&line=9D00FF&point=FFFFFF&area=true&hide_border=false&border_color=FF007F&custom_title=Rita%20Ramos"
+  width="680" />
+
 </div>
