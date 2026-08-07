@@ -89,7 +89,7 @@
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/rita257681/Meta2_TP1_ECAC">🔗 TP1_Meta2-Feature Engineering and Machine Learning</a></b><br><br>
-      Impacto da qualidade das features na performance dos modelos, comparando métodos tradicionais com representações aprendidas (embeddings).<br><br>
+      Impact of feature quality on model performance, comparing traditional methods with learned representations (embeddings).
       <img src="https://img.shields.io/badge/ReliefF-0D1117?style=flat-square&color=FF007F" />
       <img src="https://img.shields.io/badge/PCA-0D1117?style=flat-square&color=9D00FF" />
       <img src="https://img.shields.io/badge/Deep_Learning_e_Feature_Extraction-0D1117?style=flat-square&color=FF007F" />
