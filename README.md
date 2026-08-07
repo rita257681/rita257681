@@ -24,7 +24,14 @@
 
 ---
 
-### > System.Modules.languages() // Linguagens de Programação
+### 🎓 Education
+
+- **MSc in Communications, Cloud and IoT** @ University of Coimbra (2026 - Present)
+- **BSc in Computer Engineering** @ University of Coimbra (2023 - 2026)
+
+---
+
+### > System.Modules.languages() // Program Languages
 
 <div align="center">
   <br>
@@ -49,7 +56,7 @@
 
 ---
 
-### > System.Modules.tools() // Ferramentas e Tecnologias
+### > System.Modules.tools() // Tools and Technologies
 
 <div align="center">
   <br>
@@ -71,7 +78,38 @@
 
 ---
 
+### 💻 Projects
+
+**[🔗 TP1_Meta1-Engenharia de Características e Aprendizagem Computacional](https://github.com/rita257681/TP1_ECAC-sara-rita)**
+> Consolidação de múltiplas fontes de dados num formato estruturado, cálculo das grandezas dos sensores, e aplicação de métodos estatísticos para a deteção e visualização de anomalias (outliers).
+> `Python`, `Deteção de Outliers`
+
+**[🔗 TP1_Meta2-Engenharia de Características e Aprendizagem Computacional](https://github.com/rita257681/Meta2_TP1_ECAC)**
+> Impacto da qualidade das features na performance dos modelos, comparando métodos tradicionais com representações aprendidas (embeddings).
+> `ReliefF`, `PCA`, `Deep Learning e Feature Extraction`, `Data Augmentation`, `Data Science`
+
+> **[🔗 TP1-Fundamentos de Inteligência Artificial](https://github.com/rita257681/FIA-TP1)**
+> Aplicação cloud-native para armazenamento descentralizado de ficheiros escolares.
+> `Java` `PostgreSQL`
+
+**[🔗 TP2-Fundamentos de Inteligência Artificial](https://github.com/rita257681/FIA_TP2)**
+> Sistema de gestão de tráfego de rede utilizando algoritmos de machine learning.
+> `C++` `Linux` `Git`
+
+**[🔗 AquaLab](https://github.com/GuilhermeCruzPT/AquaLab-Shift-Appens-.git)**
+> Drone aquático baseado num catamarã, cujo o objetivo inclui a monitorização ambiental e a recolha de dados sobre a qualidade da água.
+> `HTML`, `Python`, `C++`
+
+
+---
+
 ### > Network.Stats.fetch()
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita257681&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&border_color=9D00FF&hide_border=false" width="48%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rita257681&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&icon_color=9D00FF&border_color=FF007F&hide_border=false" width="48%" alt="Estatísticas do GitHub" />
+</div>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rita257681&theme=dark&background=0D1117&ring=FF007F&fire=9D00FF&currStreakNum=FF007F&sideLabels=A1B2C1&dates=A1B2C1&border=FF007F" width="680" alt="Sequência de Contribuições" />
