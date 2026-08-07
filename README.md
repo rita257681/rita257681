@@ -84,7 +84,7 @@
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/rita257681/TP1_ECAC-sara-rita">🔗 TP1_Meta1-Engenharia de Características e Aprendizagem Computacional</a></b><br><br>
-      Consolidação de múltiplas fontes de dados num formato estruturado, cálculo das grandezas dos sensores, e aplicação de métodos estatísticos para a deteção e visualização de anomalias (outliers).<br><br>
+      Consolidation of multiple data sources into a structured format, calculation of sensor metrics, and application of statistical methods for anomaly (outlier) detection and visualization.<br><br>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/Deteção_de_Outliers-0D1117?style=flat-square&color=9D00FF" />
     </td>
@@ -116,7 +116,7 @@
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/GuilhermeCruzPT/AquaLab-Shift-Appens-.git">🔗 AquaLab</a></b><br><br>
-      Drone aquático baseado num catamarã, cujo o objetivo inclui a monitorização ambiental e a recolha de dados sobre a qualidade da água.<br><br>
+      Aquatic drone based on a catamaran, whose objective includes environmental monitoring and water quality data collection.
       <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=9D00FF&color=9D00FF" />
       <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
