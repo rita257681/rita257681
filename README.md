@@ -10,6 +10,7 @@
 </a>
 <br><br>
 </div>
+
 ---
 
 ### > System.Identity.load("rita257681")
@@ -82,14 +83,14 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/rita257681/TP1_ECAC-sara-rita">🔗 TP1_Meta1-Engenharia de Características e Aprendizagem Computacional</a></b><br><br>
+      <b><a href="https://github.com/rita257681/TP1_ECAC-sara-rita" style="color: #FF1493; text-decoration: none;">🔗 TP1_Meta1-Feature Engineering and Machine Learning</a></b><br><br>
       Consolidation of multiple data sources into a structured format, calculation of sensor metrics, and application of statistical methods for anomaly (outlier) detection and visualization.<br><br>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/Outlier Detection-0D1117?style=flat-square&color=9D00FF" />
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/rita257681/Meta2_TP1_ECAC">🔗 TP1_Meta2-Feature Engineering and Machine Learning</a></b><br><br>
-      Impact of feature quality on model performance, comparing traditional methods with learned representations (embeddings).
+      <b><a href="https://github.com/rita257681/Meta2_TP1_ECAC" style="color: #FF1493; text-decoration: none;">🔗 TP1_Meta2-Feature Engineering and Machine Learning</a></b><br><br>
+      Impact of feature quality on model performance, comparing traditional methods with learned representations (embeddings).<br><br>
       <img src="https://img.shields.io/badge/ReliefF-0D1117?style=flat-square&color=FF007F" />
       <img src="https://img.shields.io/badge/PCA-0D1117?style=flat-square&color=9D00FF" />
       <img src="https://img.shields.io/badge/Deep_Learning_e_Feature_Extraction-0D1117?style=flat-square&color=FF007F" />
@@ -99,23 +100,20 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/rita257681/FIA-TP1">🔗 TP1-Artificial Intelligence Fundamentals</a></b><br><br>
-      Reactive production-system agent designed to autonomously land a spacecraft in the Gymnasium LunarLander-v3 environment under environmental wind conditions.
-      <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=java&logoColor=FF007F&color=FF007F" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=9D00FF&color=9D00FF" />
+      <b><a href="https://github.com/rita257681/FIA-TP1" style="color: #FF1493; text-decoration: none;">🔗 TP1-Artificial Intelligence Fundamentals</a></b><br><br>
+      Reactive production-system agent designed to autonomously land a spacecraft in the Gymnasium LunarLander-v3 environment under environmental wind conditions.<br><br>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=9D00FF&color=9D00FF" />
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/rita257681/FIA_TP2">🔗 TP2-Artificial Intelligence Fundamentals</a></b><br><br>
-      Evolving neural network controllers using genetic algorithms to autonomously solve the Lunar Lander continuous control problem under turbulent wind conditions.
-      <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
-      <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=9D00FF&color=9D00FF" />
-      <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF007F&color=FF007F" />
+      <b><a href="https://github.com/rita257681/FIA_TP2" style="color: #FF1493; text-decoration: none;">🔗 TP2-Artificial Intelligence Fundamentals</a></b><br><br>
+      Evolving neural network controllers using genetic algorithms to autonomously solve the Lunar Lander continuous control problem under turbulent wind conditions.<br><br>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=9D00FF&color=9D00FF" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/GuilhermeCruzPT/AquaLab-Shift-Appens-.git">🔗 AquaLab</a></b><br><br>
-      Aquatic drone based on a catamaran, whose objective includes environmental monitoring and water quality data collection.
+      <b><a href="https://github.com/GuilhermeCruzPT/AquaLab-Shift-Appens-.git" style="color: #FF1493; text-decoration: none;">🔗 AquaLab</a></b><br><br>
+      Aquatic drone based on a catamaran, whose objective includes environmental monitoring and water quality data collection.<br><br>
       <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=9D00FF&color=9D00FF" />
       <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
