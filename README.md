@@ -78,38 +78,58 @@
 
 ---
 
-### 💻 Projects
+### 💻 > System.Modules.projects()
 
-**[🔗 TP1_Meta1-Engenharia de Características e Aprendizagem Computacional](https://github.com/rita257681/TP1_ECAC-sara-rita)**
-> Consolidação de múltiplas fontes de dados num formato estruturado, cálculo das grandezas dos sensores, e aplicação de métodos estatísticos para a deteção e visualização de anomalias (outliers).
-> `Python`, `Deteção de Outliers`
-
-**[🔗 TP1_Meta2-Engenharia de Características e Aprendizagem Computacional](https://github.com/rita257681/Meta2_TP1_ECAC)**
-> Impacto da qualidade das features na performance dos modelos, comparando métodos tradicionais com representações aprendidas (embeddings).
-> `ReliefF`, `PCA`, `Deep Learning e Feature Extraction`, `Data Augmentation`, `Data Science`
-
-> **[🔗 TP1-Fundamentos de Inteligência Artificial](https://github.com/rita257681/FIA-TP1)**
-> Aplicação cloud-native para armazenamento descentralizado de ficheiros escolares.
-> `Java` `PostgreSQL`
-
-**[🔗 TP2-Fundamentos de Inteligência Artificial](https://github.com/rita257681/FIA_TP2)**
-> Sistema de gestão de tráfego de rede utilizando algoritmos de machine learning.
-> `C++` `Linux` `Git`
-
-**[🔗 AquaLab](https://github.com/GuilhermeCruzPT/AquaLab-Shift-Appens-.git)**
-> Drone aquático baseado num catamarã, cujo o objetivo inclui a monitorização ambiental e a recolha de dados sobre a qualidade da água.
-> `HTML`, `Python`, `C++`
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/rita257681/TP1_ECAC-sara-rita">🔗 TP1_Meta1-Engenharia de Características e Aprendizagem Computacional</a></b><br><br>
+      Consolidação de múltiplas fontes de dados num formato estruturado, cálculo das grandezas dos sensores, e aplicação de métodos estatísticos para a deteção e visualização de anomalias (outliers).<br><br>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF007F&color=FF007F" />
+      <img src="https://img.shields.io/badge/Deteção_de_Outliers-0D1117?style=flat-square&color=9D00FF" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/rita257681/Meta2_TP1_ECAC">🔗 TP1_Meta2-Engenharia de Características e Aprendizagem Computacional</a></b><br><br>
+      Impacto da qualidade das features na performance dos modelos, comparando métodos tradicionais com representações aprendidas (embeddings).<br><br>
+      <img src="https://img.shields.io/badge/ReliefF-0D1117?style=flat-square&color=FF007F" />
+      <img src="https://img.shields.io/badge/PCA-0D1117?style=flat-square&color=9D00FF" />
+      <img src="https://img.shields.io/badge/Deep_Learning_e_Feature_Extraction-0D1117?style=flat-square&color=FF007F" />
+      <img src="https://img.shields.io/badge/Data_Augmentation-0D1117?style=flat-square&color=9D00FF" />
+      <img src="https://img.shields.io/badge/Data_Science-0D1117?style=flat-square&color=FF007F" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/rita257681/FIA-TP1">🔗 TP1-Fundamentos de Inteligência Artificial</a></b><br><br>
+      Aplicação cloud-native para armazenamento descentralizado de ficheiros escolares.<br><br>
+      <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=java&logoColor=FF007F&color=FF007F" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=9D00FF&color=9D00FF" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/rita257681/FIA_TP2">🔗 TP2-Fundamentos de Inteligência Artificial</a></b><br><br>
+      Sistema de gestão de tráfego de rede utilizando algoritmos de machine learning.<br><br>
+      <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
+      <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=9D00FF&color=9D00FF" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF007F&color=FF007F" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/GuilhermeCruzPT/AquaLab-Shift-Appens-.git">🔗 AquaLab</a></b><br><br>
+      Drone aquático baseado num catamarã, cujo o objetivo inclui a monitorização ambiental e a recolha de dados sobre a qualidade da água.<br><br>
+      <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=FF007F&color=FF007F" />
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=9D00FF&color=9D00FF" />
+      <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=FF007F&center=true&vCenter=true&width=300&lines=>_More_projects_in_progress...;>_Awaiting_new_deployments..." alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### > Network.Stats.fetch()
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita257681&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&border_color=9D00FF&hide_border=false" width="48%" alt="Linguagens mais usadas" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rita257681&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&icon_color=9D00FF&border_color=FF007F&hide_border=false" width="48%" alt="Estatísticas do GitHub" />
-</div>
-<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rita257681&theme=dark&background=0D1117&ring=FF007F&fire=9D00FF&currStreakNum=FF007F&sideLabels=A1B2C1&dates=A1B2C1&border=FF007F" width="680" alt="Sequência de Contribuições" />
