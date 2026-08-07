@@ -17,18 +17,18 @@
 
 ---
 
-### 🌸 `> System.Identity.load("rita257681")`
+### > System.Identity.load("rita257681")
 
 > *"You're not always going to be the strongest or the fastest, so be the smartest."*
 
-- 👩‍🎓 **Current Status:** MSc Student in Communications, Cloud & IoT
-- 📍 **Base of Operations:** Portugal
-- 🎯 **Primary Mission:** Designing intelligent, connected, and secure solutions for modern infrastructure.
-- 💡 **Core Interests:** Cloud Computing, Internet of Things (IoT), Networking, Cybersecurity
+- **Current Status:** MSc Student in Communications, Cloud & IoT
+- **Base of Operations:** Portugal
+- **Primary Mission:** Designing intelligent, connected, and secure solutions for modern infrastructure.
+- **Core Interests:** Cloud Computing, Internet of Things (IoT), Networking, Cybersecurity
 
 ---
 
-### 💻 `> System.Modules.techStack()`
+### > System.Modules.techStack()
 
 <div align="center">
   <br>
@@ -41,29 +41,29 @@
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=9D00FF" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF007F" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=9D00FF" />
-  <br>
+  <br><br>
 </div>
 
 ---
 
-### 🏆 `> Network.Stats.fetch()`
+### > Network.Stats.fetch()
 
 <div align="center">
-  <!-- Estatísticas com cores Cyberpunk Girlie (Rosa e Roxo) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rita257681&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&icon_color=9D00FF&border_color=FF007F&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita257681&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&border_color=9D00FF&hide_border=false" width="48%" />
+  <!-- Estatísticas com tamanhos reduzidos -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rita257681&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&icon_color=9D00FF&border_color=FF007F&hide_border=false" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita257681&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=A1B2C1&border_color=9D00FF&hide_border=false" width="280" />
 </div>
 <br>
 
 <div align="center">
-  <!-- Streak (Sequência) -->
-  <img src="https://streak-stats.demolab.com?user=rita257681&theme=dark&background=0D1117&ring=FF007F&fire=9D00FF&currStreakNum=FF007F&sideLabels=A1B2C1&dates=A1B2C1&border=FF007F" width="100%" />
+  <!-- Streak (Sequência) menor -->
+  <img src="https://streak-stats.demolab.com?user=rita257681&theme=dark&background=0D1117&ring=FF007F&fire=9D00FF&currStreakNum=FF007F&sideLabels=A1B2C1&dates=A1B2C1&border=FF007F" width="680" />
 </div>
 <br>
 
 <div align="center">
-  <!-- Gráfico de Atividade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rita257681&bg_color=0D1117&color=FF007F&line=9D00FF&point=FFFFFF&area=true&hide_border=false&border_color=FF007F" width="100%" />
+  <!-- Gráfico de Atividade menor -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rita257681&bg_color=0D1117&color=FF007F&line=9D00FF&point=FFFFFF&area=true&hide_border=false&border_color=FF007F" width="680" />
 </div>
 
 <br>
