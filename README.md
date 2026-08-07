@@ -107,7 +107,7 @@
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/rita257681/FIA_TP2">🔗 TP2-Fundamentos de Inteligência Artificial</a></b><br><br>
-      Sistema de gestão de tráfego de rede utilizando algoritmos de machine learning.<br><br>
+      Evolving neural network controllers using genetic algorithms to autonomously solve the Lunar Lander continuous control problem under turbulent wind conditions.
       <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=9D00FF&color=9D00FF" />
       <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF007F&color=FF007F" />
