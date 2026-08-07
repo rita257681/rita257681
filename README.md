@@ -10,7 +10,6 @@
 </a>
 <br><br>
 </div>
-
 ---
 
 ### > System.Identity.load("rita257681")
@@ -89,7 +88,7 @@
       <img src="https://img.shields.io/badge/Deteção_de_Outliers-0D1117?style=flat-square&color=9D00FF" />
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/rita257681/Meta2_TP1_ECAC">🔗 TP1_Meta2-Engenharia de Características e Aprendizagem Computacional</a></b><br><br>
+      <b><a href="https://github.com/rita257681/Meta2_TP1_ECAC">🔗 TP1_Meta2-Feature Engineering and Machine Learning</a></b><br><br>
       Impacto da qualidade das features na performance dos modelos, comparando métodos tradicionais com representações aprendidas (embeddings).<br><br>
       <img src="https://img.shields.io/badge/ReliefF-0D1117?style=flat-square&color=FF007F" />
       <img src="https://img.shields.io/badge/PCA-0D1117?style=flat-square&color=9D00FF" />
@@ -100,13 +99,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/rita257681/FIA-TP1">🔗 TP1-Fundamentos de Inteligência Artificial</a></b><br><br>
-      Aplicação cloud-native para armazenamento descentralizado de ficheiros escolares.<br><br>
+      <b><a href="https://github.com/rita257681/FIA-TP1">🔗 TP1-Artificial Intelligence Fundamentals</a></b><br><br>
+      Reactive production-system agent designed to autonomously land a spacecraft in the Gymnasium LunarLander-v3 environment under environmental wind conditions.
       <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=java&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=9D00FF&color=9D00FF" />
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/rita257681/FIA_TP2">🔗 TP2-Fundamentos de Inteligência Artificial</a></b><br><br>
+      <b><a href="https://github.com/rita257681/FIA_TP2">🔗 TP2-Artificial Intelligence Fundamentals</a></b><br><br>
       Evolving neural network controllers using genetic algorithms to autonomously solve the Lunar Lander continuous control problem under turbulent wind conditions.
       <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=FF007F&color=FF007F" />
       <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=9D00FF&color=9D00FF" />
