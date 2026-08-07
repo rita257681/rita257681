@@ -85,7 +85,7 @@
       <b><a href="https://github.com/rita257681/TP1_ECAC-sara-rita">🔗 TP1_Meta1-Engenharia de Características e Aprendizagem Computacional</a></b><br><br>
       Consolidation of multiple data sources into a structured format, calculation of sensor metrics, and application of statistical methods for anomaly (outlier) detection and visualization.<br><br>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF007F&color=FF007F" />
-      <img src="https://img.shields.io/badge/Deteção_de_Outliers-0D1117?style=flat-square&color=9D00FF" />
+      <img src="https://img.shields.io/badge/Outlier Detection-0D1117?style=flat-square&color=9D00FF" />
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/rita257681/Meta2_TP1_ECAC">🔗 TP1_Meta2-Feature Engineering and Machine Learning</a></b><br><br>
